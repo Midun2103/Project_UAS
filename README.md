@@ -4,9 +4,9 @@
 -   Matkul       :   Bahasa Pemrograman
 -   Prodi        :   Teknik Informatika
 
-*   LATIHAN PROJECT UAS BAHASA PEMOGRAMAN DI SEMESTER 1 TEKNIK INFORMATIKA (UPB)
+#   LATIHAN PROJECT UAS BAHASA PEMOGRAMAN DI SEMESTER 1 TEKNIK INFORMATIKA (UPB)
 
--   Membuat sebuah program nilai mahasiswa sederhana dengan menggunakan bahasa pemrograman yaitu python.
+#   Membuat sebuah program nilai mahasiswa sederhana dengan menggunakan bahasa pemrograman yaitu python.
 
 Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
@@ -20,4 +20,4 @@ Berikut link repository github :
 
 https://github.com/Midun2103/Project_UAS.git
 
-*   Terimakasih...
+#   Terimakasih...
